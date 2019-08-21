@@ -1,2 +1,2 @@
-# rails-dockerized
-Initial configuration to Rails with Postgres, Docker and 
+# Rails Dockerized
+Initial configuration to Rails with Postgres, and Sidekiq running on Docker
